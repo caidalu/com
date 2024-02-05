@@ -12,9 +12,9 @@ git status
 git commit -m 'auto update Infinity'
 echo '--------commit successfully--------'
 
-git push -f https://github.com/Shuaiwen-Cui/Infinity.git/ main
-# git push -u https://github.com/Shuaiwen-Cui/Infinity.git/ main
-# git remote add origin https://github.com/Shuaiwen-Cui/Infinity.git/
+git push -f https://github.com/caidalu/com.git/ main
+# git push -u https://github.com/caidalu/com.git/ main
+# git remote add origin https://github.com/caidalu/com.git/
 # git push -u origin main
 echo '--------push to GitHub successfully--------'
 

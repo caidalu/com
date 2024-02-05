@@ -11,9 +11,9 @@ git status
 git commit -m "auto commit by win-upload.bat"
 echo '--------commit successfully--------'
 
-@REM git push -f https://github.com/Shuaiwen-Cui/Infinity.git/ main
-git push -f https://github.com/Shuaiwen-Cui/Infinity.git/ main
-@REM git remote add origin https://github.com/Shuaiwen-Cui/Infinity.git/
+@REM git push -f https://github.com/caidalu/com.git/ main
+git push -f https://github.com/caidalu/com.git/ main
+@REM git remote add origin https://github.com/caidalu/com.git/
 @REM git push -u origin main
 echo '--------push to GitHub successfully--------'
 
@@ -23,7 +23,7 @@ echo '--------push to GitHub successfully--------'
 @REM git push -u origin master
 @REM echo '--------push to Gitee successfully--------'
 
-@REM if to deploy to https://<USERNAME>.github.io/<REPO>
+@REM if to deploy to https://caidalu.github.io/com
 @REM git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 @REM done
 
