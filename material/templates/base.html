@@ -68,7 +68,7 @@
         <style>:root{--md-text-font:"{{ text }}";--md-code-font:"{{ code }}"}</style>
       {% endif %}
     {% endblock %}
-    {% for path in config.extra_css %}
+    {% for path in config.extra_css %}  
       <link rel="stylesheet" href="{{ path | url }}">
     {% endfor %}
     {% include "partials/javascripts/base.html" %}
