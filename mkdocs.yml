@@ -1,4 +1,4 @@
-# Copyright (c) 2023 - now Shuaiwen Cui
+# Copyright (c) 2024 Shuaiwen Cui
 # Built upon MkDocs & Material for MkDocs
 
 # Project information
@@ -13,7 +13,7 @@ site_description: >-
 # repo_url: https://github.com/caidalu/com.git/
 
 # Copyright
-copyright: Copyright &copy; 2024 ~ now | 🎨 CaiDalu
+copyright: Copyright &copy; 2024 | 🎨 CaiDalu
 
 # Configuration
 theme:
@@ -115,6 +115,7 @@ plugins:
           name: 简体中文
           build: true
           nav_translations: # note that all titles and subtitles in the navigation bar that need to be translated can be put here, but with no indentation
+            INDEX: 首页
             HOME: 首页
             ABOUT: 关于
             SPONSORSHIP: 赞助
@@ -269,18 +270,18 @@ extra:
   #     link: /zh/
   #     lang: zh
   social:
-    - icon: fontawesome/solid/house
-      link: http://www.cuishuaiwen.com/
-    - icon: fontawesome/brands/github
-      link: https://github.com/Shuaiwen-Cui
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/shaun-shuaiwen-cui/
-    - icon: fontawesome/brands/researchgate
-      link: https://www.researchgate.net/profile/Shuaiwen-Cui
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0000-0003-4447-6687
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ShuaiwenC
+    # - icon: fontawesome/solid/house
+    #   link: http://www.cuishuaiwen.com/
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/Shuaiwen-Cui
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/shaun-shuaiwen-cui/
+    # - icon: fontawesome/brands/researchgate
+    #   link: https://www.researchgate.net/profile/Shuaiwen-Cui
+    # - icon: fontawesome/brands/orcid
+    #   link: https://orcid.org/0000-0003-4447-6687
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/ShuaiwenC
   tags:
     Default: default-tag
     Hardware: hardware-tag
