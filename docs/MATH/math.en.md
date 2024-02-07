@@ -4,7 +4,7 @@ comments: false
 
 # Math
 
-![MATH](https://caidalu.oss-cn-beijing.aliyuncs.com/test.jpg "阿里云OSS防盗链测试"){ width=100% }
+![MATH](https://caidalu.oss-cn-beijing.aliyuncs.com/test.jpg?Expires=1707299618&OSSAccessKeyId=TMP.3KgNTsFrRk4WY14N6yLQGn4okiEX9NEVRbyJGmtC4s1WVqD5kExQRpiz7xupBgy94nGyouqm52MGFnTcertjm5RrFKtSAw&Signature=7I5mI7FRNncyD0en8KF8gmm8kI0%3D "阿里云OSS防盗链测试"){ width=100% }
 
 ## Generic
 
