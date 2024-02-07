@@ -4,7 +4,7 @@ comments: false
 
 # 数学
 
-![MATH](math.jpg){ width=100% }
+![MATH](https://caidalu.oss-cn-beijing.aliyuncs.com/test.jpg?Expires=1707296338&OSSAccessKeyId=TMP.3KgNTsFrRk4WY14N6yLQGn4okiEX9NEVRbyJGmtC4s1WVqD5kExQRpiz7xupBgy94nGyouqm52MGFnTcertjm5RrFKtSAw&Signature=nvZgcxkKeuqzpCKuRO8dlpSCCwU%3D "阿里云OSS防盗链测试"){ width=100% }
 
 ## 通用
 
