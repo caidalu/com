@@ -247,7 +247,7 @@ extra:
     deprecated: Deprecated
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-S82T9TYCJ4
     feedback:
       title: Was this page helpful?
       ratings:
