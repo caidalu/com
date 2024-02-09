@@ -365,6 +365,8 @@ markdown_extensions:
 
 # Page Navigation Tree
 nav:
+  - BLOG:
+      - "index.md"
   - HOME: 
       - "index.md"
       - ABOUT: "./HOME/about.md"
