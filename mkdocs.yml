@@ -85,7 +85,15 @@ theme:
 # Plugins
 plugins:
   - tags
-  - blog
+  # - blog: # 设置blog
+  #     blog_dir: blog # 设置blog对应的路径
+  #     blog_toc: true # 设置blog索引页面的目录
+  #     post_date_format: full # 设置blog索引页面的日期格式
+  #     archive_toc: true
+  #     categories_toc: true
+  #     pagination_format: "$link_first $link_previous ~2~ $link_next $link_last" # 设置blog索引页面的分页格式
+  #     pagination_keep_content: true # 设置blog索引页面的分页内容
+  #     draft_if_future_date: true # 设置如果blog的日期是未来的话，就会被当成草稿不会被发布
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
@@ -234,6 +242,7 @@ plugins:
             PROJECT: 项目
             TECH-BLOG: 技术博客
             WAREHOUSE: 资源仓库
+            ELM: 饿了么
 # # Hooks
 # hooks:
 #   - material/overrides/hooks/shortcodes.py
@@ -501,6 +510,7 @@ nav:
           - Get A Domain Name: "./CLOUD/HANDS-ON/003-DOMAIN-NAME/domain-name.md"
   - AI: 
       # - "./AI/ai.md"
+      - ELM: "./AI/ELM/eleme.md"
       - BASICS 🎯: "./AI/BASICS/basics.md"
       - FRAMEWORKS 🎯: "./AI/FRAMEWORKS/frameworks.md"
       - MLP: "./AI/MLP/mlp.md"
