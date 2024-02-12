@@ -81,19 +81,19 @@ markdown_extensions:
 # repo_url: https://github.com/caidalu/com.git/
 
 extra_javascript:
-  - javascripts/katex.js 
-  - javascripts/katex.min.js  
-  - javascripts/auto-render.min.js
-  - javascripts/toc.js
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/katex.js 
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/katex.min.js  
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/auto-render.min.js
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/toc.js
 
 
 extra_css:
-  - stylesheets/katex.min.css
-  - stylesheets/my_scheme.css
-  - stylesheets/custom.css
-  - stylesheets/roboto/roboto.css
-  - stylesheets/card.css
-  - stylesheets/fold_toc.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/katex.min.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/my_scheme.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/custom.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/roboto/roboto.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/card.css
+  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/stylesheets/fold_toc.css
 
 extra:
   generator: false
