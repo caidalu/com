@@ -82,8 +82,10 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/katex.js 
-  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/katex.min.js  
-  - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/auto-render.min.js
+  # - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/katex.min.js  
+  # - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/auto-render.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
   - https://cdn.jsdelivr.net/gh/caidalu/com@main/docs/javascripts/toc.js
 
 
